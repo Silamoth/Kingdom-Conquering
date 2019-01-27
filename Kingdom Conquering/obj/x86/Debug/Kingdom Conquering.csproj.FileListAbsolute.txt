@@ -1,0 +1,2 @@
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Kingdom Conquering\obj\x86\Debug\Kingdom Conquering.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Kingdom Conquering\obj\x86\Debug\Kingdom Conquering.csprojAssemblyReference.cache

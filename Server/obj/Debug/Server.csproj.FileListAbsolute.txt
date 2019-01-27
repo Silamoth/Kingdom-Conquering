@@ -1,0 +1,27 @@
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\bin\Debug\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\bin\Debug\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\obj\Debug\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\obj\Debug\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\Test\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\Test\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\Test\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\New Build Path\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\New Build Path\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\New Build Path\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-11-18 Build Path\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-11-18 Build Path\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-11-18 Build Path\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-12-18\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-12-18\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-12-18\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-13-18\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-13-18\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-13-18\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-14-18\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-14-18\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-14-18\Server.pdb
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-17-18\Server.exe.config
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-17-18\Server.exe
+C:\Users\Michael\Documents\Project Files\Kingdom Conquering\Kingdom Conquering\Server\6-17-18\Server.pdb
