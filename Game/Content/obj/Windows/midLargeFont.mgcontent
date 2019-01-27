@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Michael/Documents/Project Files/Kingdom Conquering/Kingdom Conquering/Game/Content/midLargeFont.spritefont</SourceFile>
+  <SourceTime>2018-06-14T17:02:21.4653025-05:00</SourceTime>
+  <DestFile>C:/Users/Michael/Documents/Project Files/Kingdom Conquering/Kingdom Conquering/Game/Content/bin/Windows/midLargeFont.xnb</DestFile>
+  <DestTime>2018-06-14T17:02:24.5722636-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T09:05:36-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T09:05:36-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
